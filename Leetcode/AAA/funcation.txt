@@ -1,0 +1,45 @@
+stringstream
+to_string()
+stoi
+stoll
+
+template <class BidirectionalIterator>
+  bool next_permutation (BidirectionalIterator first,
+                         BidirectionalIterator last);
+
+【下一个排列】
+template <class BidirectionalIterator>
+  bool prev_permutation (BidirectionalIterator first,
+                         BidirectionalIterator last );
+
+【>=val的最小iterator】（end看做无穷大）
+template <class ForwardIterator, class T>
+  ForwardIterator lower_bound (ForwardIterator first,
+			       ForwardIterator last,
+			       const T& val);
+
+【>val的最小iterator】
+template <class ForwardIterator, class T>
+  ForwardIterator upper_bound (ForwardIterator first, 
+			       ForwardIterator last,
+                               const T& val);
+
+【原位置合并】
+template <class BidirectionalIterator>
+  void inplace_merge (BidirectionalIterator first, BidirectionalIterator middle,
+                      BidirectionalIterator last);
+
+【新位置合并】
+template <class InputIterator1, class InputIterator2, class OutputIterator>
+  OutputIterator merge (InputIterator1 first1, InputIterator1 last1,
+                        InputIterator2 first2, InputIterator2 last2,
+                        OutputIterator result);
+【连续赋值】
+template <class ForwardIterator, class T>
+  void iota (ForwardIterator first, ForwardIterator last, T val);
+
+【从流（istream,iostream,stringstring,istringstream）提取字符串，delim或\n结束】
+istream& getline (istream& is, string& str, char delim);
+istream& getline (istream& is, string& str);
+	while(getlind(cin|stringstreamObject,string,' '));
+
