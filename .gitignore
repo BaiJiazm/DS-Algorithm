@@ -1,0 +1,13 @@
+.DS_Store
+Algorithm Course/
+Data structure/
+Leetcode/*.iml
+Leetcode/*/*.iml
+Leetcode/*/*/*.iml
+Leetcode/*/*/*/*.iml
+Leetcode/Java Solution/LeetcodeSolution/.idea/
+Leetcode/Java Solution/LeetcodeSolution/out
+Leetcode/*.exe
+Leetcode/*/*.exe
+Leetcode/*/*/*.exe
+Leetcode/*/*/*/*.exe
