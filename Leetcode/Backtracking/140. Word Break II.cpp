@@ -3,7 +3,7 @@
 			["a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa"]
  */
  
- //简单暴力回溯穷举 
+ //简单暴力回溯穷举	TLE
 class Solution {
 	public:
 		vector<string> wordBreak(string s, vector<string>& wordDict) {
@@ -31,7 +31,7 @@ class Solution {
 		}
 };
 
-//dfs+dp	还是TLE？ 
+//dfs+dp	少写 return m[s]=res; 结果TLE。后来改掉！ 
 class Solution {
 	public:
 		unordered_map<string,vector<string>>m;
@@ -55,7 +55,7 @@ class Solution {
 						res.push_back(pres+" "+a);
 				}
 			}
-			return res;
+			return m[s]=res;
 		}
 };
 
@@ -77,7 +77,7 @@ class Solution {
 					for(auto &b:tem)
 						res.push_back(a+(b.empty()?"":" ")+b);
 				}
-			return res;
+			return m[s]=res;
 		}
 };
 
