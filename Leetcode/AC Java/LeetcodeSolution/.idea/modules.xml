@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/227. Basic Calculator II/227. Basic Calculator II.iml" filepath="$PROJECT_DIR$/227. Basic Calculator II/227. Basic Calculator II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/640. Solve the Equation/640. Solve the Equation.iml" filepath="$PROJECT_DIR$/640. Solve the Equation/640. Solve the Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/647. Palindromic Substrings/647. Palindromic Substrings.iml" filepath="$PROJECT_DIR$/647. Palindromic Substrings/647. Palindromic Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/657. Judge Route Circle/657. Judge Route Circle.iml" filepath="$PROJECT_DIR$/657. Judge Route Circle/657. Judge Route Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/664. Strange Printer/664. Strange Printer.iml" filepath="$PROJECT_DIR$/664. Strange Printer/664. Strange Printer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/672. Bulb Switcher II/672. Bulb Switcher II.iml" filepath="$PROJECT_DIR$/672. Bulb Switcher II/672. Bulb Switcher II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/673. Number of Longest Increasing Subsequence/673. Number of Longest Increasing Subsequence.iml" filepath="$PROJECT_DIR$/673. Number of Longest Increasing Subsequence/673. Number of Longest Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/674. Longest Continuous Increasing Subsequence/674. Longest Continuous Increasing Subsequence.iml" filepath="$PROJECT_DIR$/674. Longest Continuous Increasing Subsequence/674. Longest Continuous Increasing Subsequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/675. Cut Off Trees for Golf Event/675. Cut Off Trees for Golf Event.iml" filepath="$PROJECT_DIR$/675. Cut Off Trees for Golf Event/675. Cut Off Trees for Golf Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/678. Valid Parenthesis String/678. Valid Parenthesis String.iml" filepath="$PROJECT_DIR$/678. Valid Parenthesis String/678. Valid Parenthesis String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/686. Repeated String Match/686. Repeated String Match.iml" filepath="$PROJECT_DIR$/686. Repeated String Match/686. Repeated String Match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/687. Longest Univalue Path/687. Longest Univalue Path.iml" filepath="$PROJECT_DIR$/687. Longest Univalue Path/687. Longest Univalue Path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/688. Knight Probability in Chessboard/688. Knight Probability in Chessboard.iml" filepath="$PROJECT_DIR$/688. Knight Probability in Chessboard/688. Knight Probability in Chessboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/689. Maximum Sum of 3 Non-Overlapping Subarrays/689. Maximum Sum of 3 Non-Overlapping Subarrays.iml" filepath="$PROJECT_DIR$/689. Maximum Sum of 3 Non-Overlapping Subarrays/689. Maximum Sum of 3 Non-Overlapping Subarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/696. Count Binary Substrings/696. Count Binary Substrings.iml" filepath="$PROJECT_DIR$/696. Count Binary Substrings/696. Count Binary Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/722. Remove Comments/722. Remove Comments.iml" filepath="$PROJECT_DIR$/722. Remove Comments/722. Remove Comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/767. Reorganize String/767. Reorganize String.iml" filepath="$PROJECT_DIR$/767. Reorganize String/767. Reorganize String.iml" />
+    </modules>
+  </component>
+</project>
